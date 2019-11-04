@@ -3,3 +3,19 @@
     height: 200px;
     background-color: cornflowerblue;
 }
+.footer1{
+    padding: 10px 100px;
+    background-color: whitesmoke;
+    float: left;
+    list-style: none;
+    border-right: 3px solid lightseagreen;
+    font-family: Trebuchet MS;
+
+    }
+#footer2{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    display: inline-block;
+    width: 100%;
